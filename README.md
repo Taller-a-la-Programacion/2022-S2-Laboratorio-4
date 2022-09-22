@@ -59,4 +59,5 @@ Debe solicitar información de:
 ## Referencias
 - https://coderslegacy.com/python/python-gui/python-tkinter-entry/
 - https://tkdocs.com/tutorial/widgets.html
-- 
+- https://www.studytonight.com/tkinter/python-tkinter-widgets
+- Y más recursos en la internet ...
