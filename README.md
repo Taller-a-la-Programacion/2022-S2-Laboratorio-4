@@ -27,10 +27,36 @@ Debe solicitar información de:
 - Carrera (Un combobox con los datos; Ingeniera Computación, Ingeniería Producción y Administración de Empresas)
 - Sede (Un combobox con los datos; Cartago, San José, Alajuela, San Carlos y Limón)
 - Semestre (Datos numéricos de 1 y 2)
-- Año: (Valor numérico: 2021, 2022 y 2023) Pueden usar un spibox o combobox
+- Año: (Valor numérico: 2021, 2022 y 2023) Pueden usar un spinbox o combobox
 
 - Materias: será un combobox con al menos 10 materias en orden alfabético donde el estudiante puede escoger
 - Debe existir el botón "Agregar", "Regresar", "Limpiar campos"
 - Hacer uso del MessageBox para mensajes de guardado exitoso y errores de validación de los campos
 
+## Módulo Consultas
 
+### Estudiante
+
+- Debe existir un campos para ingresar el carné, este solo permitirá valores numéricos y no debe de estar vacío
+- Botones de ""Buscar**, **Limpiar datos** y **Regresar**
+- El botón buscar, dentro de un listBox mostrará los resultados de la búsqueda
+- El botón **Limpiar datos** borrará el valor del listbox y del entry
+- El botón **Regresar** retorna a la ventana inicial
+- Si el carné digitado no existe en el archivo, debe mostrar un mensaje al usuario haciendo uso del widget de MessageBox
+
+### Curso
+
+- Debe existir un campo para seleccionar el curso, debe ser un combobox con los mismos datos de la ventana de **Registro de Pre-matrícula**
+- Botones de ""Buscar**, **Limpiar datos** y **Regresar**
+- El botón buscar, dentro de un listBox mostrará los resultados de la búsqueda
+- El botón **Limpiar datos** borrará el valor del listbox y del entry
+- El botón **Regresar** retorna a la ventana inicial
+
+## Salir
+
+- Finaliza el programa
+
+## Referencias
+- https://coderslegacy.com/python/python-gui/python-tkinter-entry/
+- https://tkdocs.com/tutorial/widgets.html
+- 
