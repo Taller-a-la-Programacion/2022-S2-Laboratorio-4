@@ -16,7 +16,7 @@ Desarrollar una aplicación para el registro de cursos de un periodo lectivo hac
 - Debe  tener un menu que muestre los datos: Registro, Consultas y Salir
 - Dentro de **Registro** el sub menú llamado "Registro de Pre-matrícula"
 - Dentro de **Consultas** Consultar por Estudiante o Curso
-- Para el desarrollo de este munú se debe de hacer uso del witget de **Menú** https://coderslegacy.com/python/python-gui/python-tkinter-menu/ 
+- Para el desarrollo de este munú se debe de hacer uso del widget de **Menú** https://coderslegacy.com/python/python-gui/python-tkinter-menu/ 
 
 ## Módulo de Registro
 
@@ -24,7 +24,7 @@ Desarrollar una aplicación para el registro de cursos de un periodo lectivo hac
 Debe solicitar información de:
 - Carné (solo valores numéricos y no permitir valores vacios)
 - Nombre del estudiante (No permitir valores vacios)
-- Carrera (Un combobox con los datos; Ingeniera Computación, Ingeniería Producción y Administración de Empresas)
+- Carrera (Un combobox con los datos; Ingeniería Computación, Ingeniería Producción y Administración de Empresas)
 - Sede (Un combobox con los datos; Cartago, San José, Alajuela, San Carlos y Limón)
 - Semestre (Datos numéricos de 1 y 2)
 - Año: (Valor numérico: 2021, 2022 y 2023) Pueden usar un spinbox o combobox
