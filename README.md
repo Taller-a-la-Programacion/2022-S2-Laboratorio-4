@@ -47,7 +47,7 @@ Debe solicitar información de:
 ### Curso
 
 - Debe existir un campo para seleccionar el curso, debe ser un combobox con los mismos datos de la ventana de **Registro de Pre-matrícula**
-- Botones de ""Buscar**, **Limpiar datos** y **Regresar**
+- Botones de **Buscar**, **Limpiar datos** y **Regresar**
 - El botón buscar, dentro de un listBox mostrará los resultados de la búsqueda
 - El botón **Limpiar datos** borrará el valor del listbox y del entry
 - El botón **Regresar** retorna a la ventana inicial
